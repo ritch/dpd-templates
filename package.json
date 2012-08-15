@@ -1,0 +1,19 @@
+{
+  "name": "dpd-templates",
+  "version": "0.0.1",
+  "description": "templating resource for dpd",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "~0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ritch/dpd-templates.git"
+  },
+  "author": "",
+  "license": "BSD"
+}
